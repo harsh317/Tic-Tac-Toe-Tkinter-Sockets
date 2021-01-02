@@ -17,3 +17,4 @@ A multiplayer(2) player Tic-Tac-Toe game made using sockets and Tkinter
 - [ ] Not A Quiet Big Task But The Task is :-
 - [x] Make The huge code less.Short The Code.[__Hint:Use 'for loop' for creating all buttons , define functions and dont repeat all that pile of code again and again__]
 - [x] When Its a Tie show it
+- [x] When Game shows Someone has won ask for restart
