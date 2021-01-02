@@ -1,6 +1,14 @@
 # Tic-Tac-Toe-Tkinter-Sockets
 A multiplayer(2) player Tic-Tac-Toe game made using sockets and Tkinter
 
+## Game starts
+![savetictactoe](https://user-images.githubusercontent.com/66161239/103452632-4ef14580-4cf7-11eb-8ec5-5b5759288e37.PNG)
+
+## Game Waits 
+![savetictactoewaiting](https://user-images.githubusercontent.com/66161239/103452668-c6bf7000-4cf7-11eb-94f8-e35123435665.PNG)
+
+![Gametictactoestarts](https://user-images.githubusercontent.com/66161239/103452656-a42d5700-4cf7-11eb-91e6-6f6a14df24dc.PNG)
+
 ## Instructions
 - git clone https://github.com/harsh317/Tic-Tac-Toe-Tkinter-Sockets.git
 - cd Tic-Tac-Toe-Tkinter-Sockets
